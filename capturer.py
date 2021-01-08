@@ -1,7 +1,6 @@
 from selenium import webdriver
 import codecs
 
-URL = "https://git-scm.com/book/de/v2/Git-Grundlagen-Taggen"
 WEBPAGE_IDENTIFIER = '@misc'
 
 
