@@ -1,0 +1,1 @@
+This small script is able to parse bibtex files and create screenshots of the full webpages. chrome webdriver is needed but can be changed in the code.
